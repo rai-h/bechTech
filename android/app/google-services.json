@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "699361916465",
+    "project_id": "bench-tech-project",
+    "storage_bucket": "bench-tech-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699361916465:android:1dee1e8204e2a28cc04710",
+        "android_client_info": {
+          "package_name": "com.example.bench_tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699361916465-qo1rcu7fsst5hfvu025mo3kv4ro7q9qj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bench_tech",
+            "certificate_hash": "27eb5cf217a103d49cb91b2e7ddc9d5a8ecda315"
+          }
+        },
+        {
+          "client_id": "699361916465-lrsfhsro8h1aibm4099mkuges2mb370n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfx0XkAPoftUKuf9Anf5Jib9xGPO6Db4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699361916465-lrsfhsro8h1aibm4099mkuges2mb370n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
