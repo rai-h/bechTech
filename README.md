@@ -13,4 +13,4 @@ This app is just a simple leader board app which adds data to firestore and also
 
 6. The UI should also allow a user to browse a list of games. The user can select a game to display the list of scores for that game
 
-![alt text](https://github.com/rai-h/benchTech/blob/master/git.gif?raw=true)
+![alt text](https://github.com/rai-h/bechTech/blob/master/git.gif)
