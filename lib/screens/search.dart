@@ -21,7 +21,7 @@ class _SearchPageState extends State<SearchPage> {
         setState(() {
           newWidgetList = [
             HomeCard(
-              firstPer: documentSnapshot.data()['name'],
+              firstPer: documentSnapshot.data()['winner'],
               gameName: documentSnapshot.data()['gameName'],
               highScr: documentSnapshot.data()['highestScore'],
               lowScr: documentSnapshot.data()['lowestScore'],
